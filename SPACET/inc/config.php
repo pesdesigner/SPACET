@@ -12,7 +12,7 @@ return [
     'MAIL_HOST'         => 'smtp.gmail.com',
     'MAIL_PORT'         => 587,
     'MAIL_USERNAME'     => 'contato.graficoeweb@gmail.com',
-    'MAIL_PASSWORD'     => 's2n8n9h5contato',
+    'MAIL_PASSWORD'     => '*************',
     'MAIL_FROM'         => 'contato.graficoeweb@gmail.com',
     'MAIL_DEBUG'        => 0    
 ]   
